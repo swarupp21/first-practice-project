@@ -1,0 +1,250 @@
+body{
+	margin: 0px;
+	text-align: center;
+	font-size: 50px;
+}
+
+.top-container{
+	background-image: url(bg2.jpg);
+	width: 100%;
+	height: 100vh;
+}
+
+.logo{
+	margin-top: 90px;
+	width: 250px;
+	height: auto;
+}
+
+hr{
+	width: 25%;
+}
+
+.first-h1{
+	margin-top: 30px;
+	color:  #08bbaa;
+	font-size: 100%;
+	font-family: sans-serif;
+	text-shadow: 0px 1px 2px black;
+}
+
+.first-p{
+	margin-top: 5px;
+	color:  #08bbaa;
+	font-size: 50%;
+	font-family: sans-serif;
+	text-shadow: 0px 1px 1px black;
+	margin-bottom: 0px;
+}
+.middle-container{
+	background-color:  #e1fcfa;
+	width: 100%;
+	height: auto;
+}
+
+.person{
+	width: 150px;
+	height: auto;
+	position: relative;
+	top: 50px;
+}
+
+.about{
+	position: relative;
+	top: 10px;
+	font-size: 95%;
+	font-family: sans-serif;
+	color:  #03c6b8; 
+}
+.p1{
+	position: relative;
+	bottom: 30px;
+	font-size: 50%;
+	color:  #03b2a5;
+	margin: 75px 150px 75px;
+	font-family: sans-serif;
+}
+
+.service{
+	font-size: 95%;
+	font-family: sans-serif;
+	color: #03c6b8;
+	position: relative;
+	top: 5px;
+	text-align: center;
+}
+
+.door{
+	width: 150px;
+	height: auto;
+	float: left;
+	margin-right: 30px;
+}
+
+.services{
+	width: 75%;
+	margin: auto;
+	text-align: left;
+}
+.door-text{
+	font-size: 50%;
+	font-family: sans-serif;
+	color: #03b2a5;
+}
+
+.p2{
+	font-size: 30%;
+	font-family: sans-serif;
+	color: #002a27;
+	line-height: 2;
+}
+
+.decor{
+	width: 150px;
+	height: auto;
+	float: right;
+	margin-left: 30px;
+}
+
+.home-decoration{
+	width: 75%;
+	margin: auto;
+	text-align: right;
+	margin-top: 60px;
+}
+
+.homes{
+	font-size: 50%;
+	font-family: sans-serif;
+	color: #03b2a5;
+}
+
+.p3{
+	font-size: 30%;
+	font-family: sans-serif;
+	color: #002a27;
+	line-height: 2;
+}
+
+.stairs{
+	width: 150px;
+	height: auto;
+	float: left;
+	margin-right: 30px;	
+}
+
+.stair{
+	width: 75%;
+	margin: auto;
+	text-align: left;
+	margin-top: 60px;
+}
+
+.stair-design{
+	font-size: 50%;
+	font-family: sans-serif;
+	color: #03b2a5;
+}
+
+.p4{
+	font-size: 30%;
+	font-family: sans-serif;
+	color: #002a27;
+	line-height: 2;
+}
+
+.get{
+	font-size: 90%;
+	color: #03b2a5;
+	font-family: sans-serif;
+}
+.ready{
+	font-size: 60%;
+	color: #03b2a5;
+	font-family: sans-serif;
+	margin-top: 20px;
+	position: relative;
+	bottom: 25px;
+}
+
+.contact-massage{
+	font-size: 40%;
+	color: #03b2a5;
+	font-family: sans-serif;
+	position: relative;
+	bottom: 40px;
+}
+
+.btn {
+   background: #D74458;
+   background-image: -webkit-linear-gradient(top, #D74458, #FB45A3);
+   background-image: -moz-linear-gradient(top, #D74458, #FB45A3);
+   background-image: -ms-linear-gradient(top, #D74458, #FB45A3);
+   background-image: -o-linear-gradient(top, #D74458, #FB45A3);
+   background-image: linear-gradient(to bottom, #D74458, #FB45A3);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: sans-serif;
+   font-size: 25px;
+   font-weight: 100;
+   padding: 20px;
+   box-shadow: 1px 1px 20px 0px #A2A6AD;
+   -webkit-box-shadow: 1px 1px 20px 0px #A2A6AD;
+   -moz-box-shadow: 1px 1px 20px 0px #A2A6AD;
+   text-shadow: 1px 1px 20px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   position: relative;
+   bottom: 40px;
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #73A2EF;
+   background-image: -webkit-linear-gradient(top, #73A2EF, #FB45E7);
+   background-image: -moz-linear-gradient(top, #73A2EF, #FB45E7);
+   background-image: -ms-linear-gradient(top, #73A2EF, #FB45E7);
+   background-image: -o-linear-gradient(top, #73A2EF, #FB45E7);
+   background-image: linear-gradient(to bottom, #73A2EF, #FB45E7);
+   -webkit-border-radius: 28px;
+   -moz-border-radius: 28px;
+   border-radius: 28px;
+   text-decoration: none;
+}
+
+.bottom-container{
+	background-color: #717580;
+	padding: 50px 0 20px;
+}
+
+a{
+	color: white;
+	font-size: 40%;
+	font-family: sans-serif;
+	margin: 10px 20px;
+	text-decoration: none;
+}
+
+.copyright{
+	font-size: 30%;
+	font-family: sans-serif;
+	color: white;
+	position: relative;
+	bottom: 10px;
+}
+.main-nav{
+	font-size: 40%;
+	color: 2F2F2F;
+}
+
+.clearfix:after{
+	content: ".";
+	visibility: hidden;
+	display: block;
+	height: 0px;
+	clear: both;
+}
